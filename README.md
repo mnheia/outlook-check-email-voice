@@ -2,6 +2,7 @@ Copyright (c) 2018, Mitja Sovec <mitja@sovec.si>
 
 # outlook-check-email-voice
 A vbs script to check number of unread emails in your Outlook inbox. 
+
 This script can be run through Task Scheduler to check for unread emails in a random interval.
 
 # Requirements
