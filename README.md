@@ -1,4 +1,4 @@
-Copyright (c) 2018, Mitja Sovec <mitja@sovec.si>
+Copyright (c) 2018, Mnheia <mnheia@gmail.com>
 
 # outlook-check-email-voice
 A vbs script to check number of unread emails in your Outlook inbox. 
